@@ -1,0 +1,6 @@
+在資料夾用angular建立一個新專案:
+
+C:\Users\user\amazono\client>ng new AngularAmazono --routing --style=scss
+
+C:\Users\user\amazono\client\AngularAmazono>npm install @ng-bootstrap/ng-bootstrap
+
